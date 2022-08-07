@@ -12,7 +12,7 @@
 </div>
 <div align="left">
   
-   <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=KobraPy&layout=compact&langs_count=7&theme=github_dark"/>
+   <img height="180em" img width="460" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KobraPy&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
 <div align="left">
