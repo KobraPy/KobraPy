@@ -1,8 +1,5 @@
 
 
-
-
-
 # ***I'm Denis. I'm stuyding `python` and `data science`.***
 > And interested in python for cybersecurity
 
@@ -10,9 +7,18 @@
 <div align="left">
   <a href="https://github.com/KobraPy">
   <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=KobraPy&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=KobraPy&layout=compact&langs_count=7&theme=github_dark"/>
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ 
+ 
 </div>
+<div align="left">
+  
+   <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=KobraPy&layout=compact&langs_count=7&theme=github_dark"/>
+</div>
+
+<div align="left">
+   <img align="left" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
+
 
 <!---
 <div style="display: inline_block"><br>
