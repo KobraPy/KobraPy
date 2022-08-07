@@ -7,7 +7,7 @@
 > And interested in python for cybersecurity
 
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/KobraPy">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KobraPy&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KobraPy&layout=compact&langs_count=7&theme=github_dark"/>
