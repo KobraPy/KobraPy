@@ -1,8 +1,9 @@
 
+<p float="left">
+  <img src="https://gcdnb.pbrd.co/images/fxDquASMcmPP.jpg?o=1" height="150" width="1000" />
+</p>
 
-# ***I'm Denis and I study `python` and `data science`.***
-> And interested in python for cybersecurity
-
+> but graphic design is my passion
 
 <div align="left">
   <a href="https://github.com/KobraPy">
@@ -18,13 +19,19 @@
 </div>
   
 > 
-<p float="left">
-  <img src="https://wallpaperaccess.com/full/1282257.jpg" width="1000" />
+
   
-</p>
+<details>
+  <summary markdown="span">This is the summary text, click me to expand</summary>
 
+  This is the detailed text.
 
-<!---
+  We can still use markdown, but we need to take the additional step of using the `parse_block_html` option as described in the [Mix HTML + Markdown Markup section](#mix-html--markdown-markup).
+
+  You can learn more about expected usage of this approach in the [GitLab UI docs](https://gitlab-org.gitlab.io/gitlab-ui/?path=/story/base-collapse--default) though the solution we use above is specific to usage in markdown.
+</details>
+
+  <!---
 
 
 
