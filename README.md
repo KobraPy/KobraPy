@@ -1,6 +1,6 @@
 
 
-# ***I'm Denis. I'm stuyding `python` and `data science`.***
+# ***I'm Denis and I study `python` and `data science`.***
 > And interested in python for cybersecurity
 
 
