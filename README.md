@@ -7,11 +7,9 @@
 <div align="left">
   <a href="https://github.com/KobraPy">
   <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=KobraPy&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
- 
- 
 </div>
-<div align="left">
-  
+
+<div align="left">  
    <img height="180em" img width="460" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KobraPy&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
@@ -20,10 +18,46 @@
 </div>
   
 > 
-
+<p float="left">
+  <img src="https://wallpaperaccess.com/full/1282257.jpg" width="1000" />
+  
+</p>
 
 
 <!---
+
+
+
+
+Images side by side if they're small
+<p float="left">
+  <img src="https://i.stack.imgur.com/vqZfq.png?s=256&g=1" width="100" />
+  <img src="https://i.stack.imgur.com/vqZfq.png?s=256&g=1" width="100" /> 
+  <img src="https://i.stack.imgur.com/vqZfq.png?s=256&g=1" width="100" />
+</p>
+
+
+Link in words
+
+**The quick brown [fox][1], jumped over the lazy [dog][2].**
+
+[1]: https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg "Wikipedia: Fox"
+[2]: https://en.wikipedia.org/wiki/Dog "Wikipedia: Dog"
+
+
+
+              Commented
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](https://...Dark.png)  |  ![](https://...Ocean.png)
+
+
+```python
+   [def teste():
+      pass]
+```
+
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
