@@ -16,24 +16,34 @@
 
 <div>
    <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  
-</div>
-  
-> 
+</div><br>
 
   
 <details>
-  <summary markdown="span">This is the summary text, click me to expand</summary>
+<summary>
 
-  This is the detailed text.
+#### **`Certificates`**
 
-  We can still use markdown, but we need to take the additional step of using the `parse_block_html` option as described in the [Mix HTML + Markdown Markup section](#mix-html--markdown-markup).
+</summary>
 
-  You can learn more about expected usage of this approach in the [GitLab UI docs](https://gitlab-org.gitlab.io/gitlab-ui/?path=/story/base-collapse--default) though the solution we use above is specific to usage in markdown.
+
+[Data scientist at UniCV](https://unicv.edu.br/?gclid=Cj0KCQjwxb2XBhDBARIsAOjDZ362yEZwfhUBFMTne0VH5HxgbDPF2RKytKxgCsneFBiTxu81myaTYn0aAh-vEALw_wcB)<br>
+Curso: [Programação em Python do básico ao avançado](https://www.udemy.com/certificate/UC-83ebeb4d-56d6-403f-af64-7a92a1e1fd8d/)<br>
+Curso: [Formação Cientista de Dados: O Curso Completo](https://www.udemy.com/certificate/UC-6ff6aed3-a26c-4b4a-9791-73059998c1e0/)
+
+  
 </details>
 
+<div> 
+  <a href="https://www.youtube.com/channel/UCXba-ILfRpgyjY3xw9xzySg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/kobrapy/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/pork_shop" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  <a href = "mailto:stq.denis@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/stqdenis/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
   <!---
-
-
+activate snake animation
+![Snake animation](https://github.com/KobraPy/KobraPy/blob/output/github-contribution-grid-snake.svg)
 
 
 Images side by side if they're small
@@ -53,18 +63,19 @@ Link in words
 
 
 
-              Commented
+              Create table
 Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
 ![](https://...Dark.png)  |  ![](https://...Ocean.png)
 
 
+Syntax highlight for languages
 ```python
    [def teste():
       pass]
 ```
 
-
+Links with icons for langauges
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -78,11 +89,6 @@ Solarized dark             |  Solarized Ocean
   
 
  
-<div> 
-  <a href="https://www.youtube.com/channel/UCXba-ILfRpgyjY3xw9xzySg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/kobrapy/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/pork_shop" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href = "mailto:stq.denis@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/stqdenis/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
  
 
