@@ -40,6 +40,7 @@ Curso: [Formação Cientista de Dados: O Curso Completo](https://www.udemy.com/c
  	<a href="https://www.twitch.tv/pork_shop" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:stq.denis@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/stqdenis/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <a href="https://www.tiktok.com/@kobrapy" target="_blank"><img src="https://img.shields.io/badge/-TikTok-%230077B5?style=for-the-badge&logo=tiktok&logoColor=white&color=black" target="_blank"></a> 
 
   <!---
 activate snake animation
